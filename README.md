@@ -83,7 +83,7 @@
 ## 3. Overview of Kali Functionality
 > The main appeal of Kali is the large toolkit of pre-installed programs designed for forensics and penetration testing. Explaining exactly how to use each and every progam is outside the scope of this tutorial, but I do recommend checking out this 96 part YouTube playlist by [David Bombal](https://www.youtube.com/playlist?list=PLhfrWIlLOoKMe1Ue0IdeULQvEgCgQ3a1B) to get started.
 
-You can view the list of programs by hitting the Kali equivalent of the Windows button. This list includes programs for:
+You can view the list of programs by hitting the Kali equivalent of the Windows start button. This list includes programs for:
 - Information gathering
 - Vulnerability analysis
 - Web App Analysis
